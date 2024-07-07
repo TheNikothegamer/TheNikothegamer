@@ -1,22 +1,43 @@
-<h1 align="center">Hi 👋, I'm ArtemisDK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm ArtemisDK
+### A passionate frontend developer & backend developer from Denmark
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenikothegamer&label=Profile%20views&color=0e75b6&style=flat" alt="thenikothegamer" /> </p>
+<details open>
+<summary>## 🛠️ My Favorite Tools</summary>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenikothegamer" alt="thenikothegamer" /></a> </p>
+### 👨‍💻 Programming and Markup Languages
+   [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Acss)
+   [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml)
+   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript)
+   [![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript)
+   [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Aphp)
+   [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Asql)
+   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript)
 
-<p align="left"> <a href="https://twitter.com/artemis_dk" target="blank"><img src="https://img.shields.io/twitter/follow/artemis_dk?logo=twitter&style=for-the-badge" alt="artemis_dk" /></a> </p>
+### 🧰 Frameworks and Libraries
+   [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)](#)
+   [![Electron](https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white)](#)
+   [![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)](#)
+   [![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/artemis_dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="artemis_dk" height="30" width="40" /></a>
-</p>
+### 🗄️ Databases and Cloud Hosting
+   [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)](#)
+   [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)](#)
+   [![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)](#)
+   [![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)](#)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 💻 Software and Tools
+   [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](#)
+   [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
+   [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)](#)
+   [![Google Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)](#)
+   [![OBS Studio](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white)](#)
+   [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenikothegamer&show_icons=true&locale=en&layout=compact" alt="thenikothegamer" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenikothegamer&show_icons=true&locale=en&layout=compact" alt="thenikothegamer" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenikothegamer&show_icons=true&locale=en" alt="thenikothegamer" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenikothegamer&show_icons=true&locale=en" alt="thenikothegamer" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenikothegamer&" alt="thenikothegamer" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenikothegamer&" alt="thenikothegamer" />
+
+</details>
