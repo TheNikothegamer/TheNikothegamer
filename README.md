@@ -68,7 +68,7 @@
 |:-----------------------:|:----------------:|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thenikothegamer&show_icons=true&locale=en&layout=compact&theme=react" alt="thenikothegamer" /> | <img src="https://github-readme-stats.vercel.app/api?username=thenikothegamer&show_icons=true&locale=en&theme=react" alt="thenikothegamer" /> |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thenikothegamer&theme=react" alt="thenikothegamer" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=thenikothegamer&theme=react" alt="thenikothegamer" />
 
 </div>
 
