@@ -12,13 +12,11 @@
 
 <div align="center">
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Acss)
-[![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript)
-[![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Aphp)
-[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Asql)
+![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 
 </div>
 
@@ -26,10 +24,10 @@
 
 <div align="center">
 
-[![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)](#)
-[![Electron](https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white)](#)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat)
+![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
 
 </div>
 
@@ -37,10 +35,11 @@
 
 <div align="center">
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)](#)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)](#)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
+![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat)
+![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat)
 
 </div>
 
@@ -48,13 +47,11 @@
 
 <div align="center">
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
-[![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](#)
-[![OBS Studio](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white)](#)
-[![Google Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)](#)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)
+![AnyDesk Badge](https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=flat)
+![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat)
+![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+
 
 </div>
 
